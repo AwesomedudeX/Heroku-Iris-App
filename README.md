@@ -1,1 +1,1 @@
-# Iris-App
+# Heroku Iris Classifier
